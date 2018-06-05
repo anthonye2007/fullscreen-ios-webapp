@@ -9,3 +9,5 @@ To make it work:
 1. Use Safari on a iOS device and connect to <your.computer.ip>:8080. Note nothing is different yet.
 1. Add this page to your home screen via the Share button
 1. Use the newly added home screen icon to open the app -- observe no browser bar!!
+
+Screenshot: ![Remove header bar](remove-browser-bar.jpeg)
